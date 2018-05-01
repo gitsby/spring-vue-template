@@ -1,0 +1,7 @@
+allprojects {
+    apply plugin: 'maven'
+    group 'com.github.gitsby'
+    version '0.1'
+
+}
+apply plugin: 'idea'

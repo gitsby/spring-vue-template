@@ -1,0 +1,17 @@
+/.gradle
+/bin
+/.settings
+/.classpath
+/.project
+/out
+/test-output
+/build
+/.gwt
+/.gwt-tmp
+/tomcat
+/dist
+/war
+/*.log
+/*.iml
+.idea/
+package-lock.json

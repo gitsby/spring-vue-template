@@ -1,0 +1,5 @@
+rootProject.name = 'spring_vue_template'
+
+
+include "client"
+include "server"
